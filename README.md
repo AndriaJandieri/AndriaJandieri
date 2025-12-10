@@ -1,23 +1,5 @@
 # Hi there 👋
 
-# Welcome to my GitHub profile — glad you're here!
-
-# About Me
-
--Passionate about learning and exploring new technologies
-
--Enjoy working on personal projects that help me grow
-
--Always curious, always improving
-
--Experimenting with different programming languages and tools
-
--Building small applications to sharpen my skills
-
--Solving problems and figuring out how things work
-
--Writing clean, simple, and maintainable code
-
 <!--
 **AndriaJandieri/AndriaJandieri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
