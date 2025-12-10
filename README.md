@@ -1,6 +1,6 @@
-Hi there 👋
+# Hi there 👋
 
-Welcome to my GitHub profile — glad you're here!
+# Welcome to my GitHub profile — glad you're here!
 
 # About Me
 
@@ -10,13 +10,9 @@ Welcome to my GitHub profile — glad you're here!
 
 -Always curious, always improving
 
-# What I’m Working On
-
 -Experimenting with different programming languages and tools
 
 -Building small applications to sharpen my skills
-
-# What I Enjoy
 
 -Solving problems and figuring out how things work
 
