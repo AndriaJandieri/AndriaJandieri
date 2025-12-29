@@ -1,5 +1,7 @@
-# Hi there 👋
-
+# Hey, I'm Andria 👋
+I love building stuff — apps, games, robots, (sometimes furniture 😆) and random projects that spark my curiosity... basically everything!
+Passionate about designing solutions that simplify what once seemed complicated or even impossible.
+Time is limited, but curiosity is endless...
 <!--
 **AndriaJandieri/AndriaJandieri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
